@@ -1,16 +1,16 @@
-## Hi there 👋
+# ✨ Hello! ✨
+I'm Sasha, a webdev with a big focus on accesibility and semantics and a DIY enthusiast, based in Denmark 🇩🇰
 
-<!--
-**makulatorn/makulatorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ About me ✨
+- 🎵 Experimental musician with a big interest in making my own effects pedals, tools and instruments
+- 💻 Webdev passionate about the art and beauty of interesting/personal sites
+- 🔊 Freelance sound engineer with a special interest in small, unique artists passionate about their art
+- 🧑‍🤝‍🧑 All about the spirit of ✨ community ✨
+- 📚 Love delving into new things and learning something new
 
-Here are some ideas to get you started:
+### 🛠️ Tools 🛠️
+- Language: HTML, CSS, JS
+- Software: VSCode, Renoise, Pure Data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Projects 📚
+Check out my [Portfolio](https://github.com/makulatorn/portfolio) to see my different projects I'm the most proud of and want to show off! 😏
