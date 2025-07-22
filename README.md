@@ -9,8 +9,8 @@ I'm Sasha, a webdev with a big focus on accesibility and semantics and a DIY ent
 - 📚 Love delving into new things and learning something new
 
 ### 🛠️ Tools 🛠️
-- Language: HTML, CSS, SCSS, JS
-- Software: VSCode, Renoise, Pure Data
+- Languages: HTML, CSS/SCSS/SASS, JS, Python
+- Software: VSCode, Neovim, Renoise, Pure Data
 
 ### 📚 Projects 📚
 Check out my [Portfolio](https://github.com/makulatorn/portfolio) to see my different projects I'm the most proud of and want to show off! 😏
