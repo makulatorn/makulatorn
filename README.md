@@ -9,7 +9,7 @@ I'm Sasha, a webdev with a big focus on accesibility and semantics and a DIY ent
 - 📚 Love delving into new things and learning something new
 
 ### 🛠️ Tools 🛠️
-- Languages: HTML, CSS/SCSS/SASS, JS, Python
+- Languages: HTML, CSS/SCSS/SASS, JS, TS, Python
 - Software: VSCode, Neovim, Renoise, Pure Data
 
 ### 📚 Projects 📚
