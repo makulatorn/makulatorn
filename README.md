@@ -10,6 +10,5 @@ I'm Sasha, a webdev with a big focus on accesibility and semantics and a DIY ent
 
 ### 🛠️ Tools 🛠️
 - Languages: HTML, CSS, JS, TS, HTMX, Python
-- Software: VSCode, Neovim(lazyvim)
 - Music sofware: Renoise, Pure Data, Reaper
 - Eletronics/PCB design: Kicad
